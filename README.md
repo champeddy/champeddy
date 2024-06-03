@@ -1,4 +1,4 @@
-# Hi there, I'm aispeedforce 👋
+# Hi there, I'm Eddy Champ 👋
 
 Welcome to my GitHub profile! I'm passionate about crafting exceptional web and mobile experiences, coupled with striking designs. With expertise spanning a wide array of technologies and platforms, I bring a holistic approach to development and design projects.
 
